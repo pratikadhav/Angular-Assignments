@@ -1,0 +1,10 @@
+<h1>
+     Marvellous Infosystem Portal
+</h1>
+
+<div [ngSwitch]="Batch">
+    <div *ngSwitchCase="'PPA'">You are selecting PPA</div>
+    <div *ngSwitchCase="'LB'">You are selecting LB</div>
+    <div *ngSwitchCase="'Angular'">You are selecting Angular</div>
+    <div *ngSwitchDefault>no batch</div>
+</div>

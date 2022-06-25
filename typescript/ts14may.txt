@@ -1,0 +1,86 @@
+Web 
+Front end and Backend
+frontend- html
+backend- javascript
+
+Framework Aal lasun
+Without frame using mixer paste keli 
+
+Application development javascript Html
+Web 1 clientside and 2 serverside
+Clientside 1 Frontend 2 backend
+
+typescript is scritct syntactical super set of javascript
+
+Angular js now it is only Angular bcoz javascript is removed and Typescript is added
+
+typescript 2012 javascript 1995
+
+typescriptlang.org official site 
+Docs playground
+
+npmjs.com
+node package manager
+
+npm cli
+
+docs.npmjs.com
+
+Angular.io
+mongodb.com
+expressjs.com
+MEAN MongoDB ExpressJs Angular Node 
+Reactjs.com
+vuejs.org
+deno.land node cha next version
+
+
+Javascript Dynamically typed No = 11
+Statically typed =
+
+Dynamically typed is easy langauge 
+stataically typed language 
+
+Data type optionally statically type
+
+
+Datatype
+String
+Number
+Boolean 
+void if funtion didnt return anything
+null Value is empty
+undefined memory ahe pan tyat kay thevnar he decide nhi
+eg jaga ahe pan tyavar kay karnar he tharlel nahi
+eg jaga ahe 712 var lihila ahe ki sheti karnar ahe manje therlay pan ajun kelela nhi manje null
+
+what is diff between null and undefined 
+
+Dukanat gelo ani tyani kahihi dila nhi ani apan ghari gelo te manje void
+
+String / Number / boolean / null/ Undefined / void  
+typescript = javascript plus data type 
+
+userdefined 
+array enum classes interface
+
+OOP
+typesciprt = javascript + datatype + oop
+
+classes is imp for angular dev
+ng new command src-> .html .ts 
+
+pratek ts file madhe class asto
+
+class kuthe ahe te shodha HW
+
+array tuple 
+interface 
+
+function is like a block 
+brcket open and close
+Dukan = funtion 
+
+cutting shop void 
+mandir void
+funtion kahi det nasel tar te void consider hota

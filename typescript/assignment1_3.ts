@@ -1,0 +1,13 @@
+var num:number=20;
+
+
+function displayFactor(value1){
+    var i:number=1;
+    for(i=1;i<=value1;i++)
+    {
+        if(value1 % i == 0){
+            console.log(i);
+        }
+    }
+}
+displayFactor(num);
